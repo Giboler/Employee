@@ -1,0 +1,4 @@
+﻿  Field.cpp
+C:\Noor\Projects\C++\Employee\Field.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Noor\Projects\C++\Employee\Field.cpp(109): warning C4715: 'Field::searchField': not all control paths return a value
+  Employee.vcxproj -> C:\Noor\Projects\C++\Employee\Debug\Employee.exe

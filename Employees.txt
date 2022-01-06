@@ -1,0 +1,4 @@
+InformationTechnology|Noor|10000|18|0100000000|Mansoura|1|
+Sales|Anas|20000|20|0100000000|PortSaid|2|
+Marketing|Hamed|30000|19|0100000000|Ismailia|3|
+OfficeManagement|Assem|40000|23|0100000000|Cairo|4|
